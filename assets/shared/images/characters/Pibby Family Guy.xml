@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pibby Family Guy.png"><SubTexture name="Pibby Family Guy Idle0000" x="0" y="0" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Idle0001" x="906" y="0" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Idle0002" x="1812" y="0" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Idle0003" x="2718" y="0" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Idle0004" x="3624" y="0" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Idle0005" x="0" y="511" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Idle0006" x="906" y="511" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Idle0007" x="1812" y="511" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Idle0008" x="2718" y="511" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Right0000" x="3624" y="511" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Right0001" x="0" y="1022" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Right0002" x="906" y="1022" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Right0003" x="1812" y="1022" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Down0000" x="2718" y="1022" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Down0001" x="3624" y="1022" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Down0002" x="0" y="1533" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Down0003" x="906" y="1533" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Up0000" x="1812" y="1533" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Up0001" x="2718" y="1533" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Up0002" x="3624" y="1533" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Up0003" x="0" y="2044" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Left0000" x="906" y="2044" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Left0001" x="1812" y="2044" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Left0002" x="2718" y="2044" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+<SubTexture name="Pibby Family Guy Left0003" x="3624" y="2044" width="906" height="511" frameX="0" frameY="0" frameWidth="906" frameHeight="511" />
+</TextureAtlas>
